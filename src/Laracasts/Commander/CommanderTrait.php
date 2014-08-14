@@ -18,7 +18,8 @@ trait CommanderTrait {
     {
         $input = $input ?: Input::all();
 
-        $command = $this->mapInputToCommand($command, $input);
+        //  HERE IS MY BIG CHANGE!  I COMMENTED OUT A LINE!
+        //$command = $this->mapInputToCommand($command, $input);
 
         $bus = $this->getCommandBus();
 
