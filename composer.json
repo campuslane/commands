@@ -1,5 +1,5 @@
 {
-    "name": "campuslane/commander",
+    "name": "campuslane/commands",
     "description": "Commands and domain events in Laravel",
     "license": "MIT",
     "authors": [
