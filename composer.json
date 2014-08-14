@@ -23,5 +23,5 @@
             "Laracasts\\Commander": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
